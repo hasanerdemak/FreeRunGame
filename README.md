@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to FreeRun, an exciting first-person perspective (FPS) game where players can utilize various abilities such as running, jumping, crouching, sliding, wall running, rope swinging, aiming, and shooting to progress through different maps and overcome obstacles. The objective of the game is to reach the finish line by efficiently navigating the challenges presented in three different difficulty levels - easy, medium, and hard.
+Welcome to FreeRun, an exciting first-person perspective (FPP) game where players can utilize various abilities such as running, jumping, crouching, sliding, wall running, rope swinging, aiming, and shooting to progress through different maps and overcome obstacles. The objective of the game is to reach the finish line by efficiently navigating the challenges presented in three different difficulty levels - easy, medium, and hard.
 
 ## Features
 
